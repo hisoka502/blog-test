@@ -1,0 +1,10 @@
+{
+  "findText": "#spaced",
+  "replaceText": "#spaced",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

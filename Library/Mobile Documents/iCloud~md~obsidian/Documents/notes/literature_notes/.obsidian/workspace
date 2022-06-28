@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "c8ffd1c0a1dbf559",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ad1ab01b2106dd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "摘要索引/《Job to be done - theory to practice》.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ed4169ecef5bdd40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "摘要索引/《Job to be done - theory to practice》.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b860fde97f73fbda",
+    "type": "split",
+    "children": [
+      {
+        "id": "07045213f654b937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddf4897657553f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c367fbccba749c8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db19ff45e6a7494d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa007ad5b087301b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4121a4d4bcdb89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "摘要索引/《Job to be done - theory to practice》.md"
+              }
+            }
+          },
+          {
+            "id": "25612ea48b4e3ad9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "摘要索引/《Job to be done - theory to practice》.md",
+    "202009251133.md",
+    "202009201551 顧客在意多個成效.md",
+    "202009201557 相關用途.md",
+    "202008271312 新創企業透過脫鉤造成顛覆.md",
+    "202008271201 《解構顧客價值鏈》.md",
+    "202008271308 展示廳現象.md",
+    "202008292315 跨足鄰近產業的優缺點.md",
+    "202008292315.md"
+  ]
+}
